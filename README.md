@@ -11,7 +11,8 @@ After recommissioning an old laptop to use as a server, I set out to create a ph
 3) run STbat.sh ( in Scripts ) 
 ---
 
+## *breadboard prototype*
 ![image](./USB_COM/Prototype.jpg)
-*breadboard prototype*
-![image](./USB_COM/segment_display.png)
+
 *LCD wiring(for stm32f103 dev board)*
+![image](./USB_COM/segment_display.png)
