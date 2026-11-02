@@ -1,7 +1,7 @@
 STM32 Projects implementing external libs
 (open subdirectories for project images and details)
 
-# 1) [Laptop Battery Monitor](./USB_COM)
+# [1) Laptop Battery Monitor](./USB_COM)
 
 -- TO USE: 
 1) flash .elf file inside build
